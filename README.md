@@ -6,7 +6,7 @@ Mã nguồn chia sẻ miễn phí (MIT). Có hai phần:
 
 | Thư mục | Là gì |
 |---|---|
-| `index.html`, `assets/` | Bản web tĩnh cho mọi người tự vào ngồi tụng (đăng lên Cloudflare Pages) |
+| `index.html`, `assets/` | Bản web tĩnh cho mọi người tự vào ngồi tụng (đăng lên Vercel hoặc Cloudflare Pages) |
 | `live/` | Bộ công cụ phát LIVE: server Node, overlay 9:16, bảng điều khiển |
 
 ## Chạy bộ LIVE trên máy phát
